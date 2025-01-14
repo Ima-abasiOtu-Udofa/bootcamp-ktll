@@ -29,21 +29,21 @@ the letter at the 1st, 3rd, and 9th index.
 #assignment 1
 
 ocean = "pacific ocean"
-ocean[6]
-ocean[8]
-ocean[12]
+print(ocean[6])
+print(ocean[8])
+print(ocean[12])
 
 
 mountain = "mount kilimanjaro"
-mountain[6]
-mountain[8]
-mountain[12]
+print(mountain[6])
+print(mountain[8])
+print(mountain[12])
 
 
 place = "national park"
-place[6]
-place[8]
-place[12]
+print(place[6])
+print(place[8])
+print(place[12])
 
 
 #solutions
@@ -55,32 +55,28 @@ game = 'carom billiards' # letter d
 plant = 'ashwagandha' # letter n
 """"""
 
-word = 'unscrupulous'
-word[8]
+word = ('unscrupulous', word[8])
+game = ('carom billiards', game[13])
+plant = ('ashwagandha', plant[7])
 
-game = 'carom billiards'
-game[13]
-
-plant = 'ashwagandha'
-plant[7]
 
 #solutions
 #assignment 3
 
 petname = 'zennacharib'
-len(petname)
-petname[1]
-petname[3]
-petname[9]
+print(len(petname))
+print(petname[1])
+print(petname[3])
+print(petname[9])
 
 petnameagain = 'malaika'
-len(petnameagain)
-petnameagain[1]
-petnameagain[3]
-petnameagain[9]
+print(len(petnameagain))
+print(petnameagain[1])
+print(petnameagain[3])
+print(petnameagain[9])
 
 petnamethird = 'hercules'
-len(petnamethird)
-petnamethird[1]
-petnamethird[3]
-petnamethird[9]
+print(len(petnamethird))
+print(petnamethird[1])
+print(petnamethird[3])
+print(petnamethird[9])
