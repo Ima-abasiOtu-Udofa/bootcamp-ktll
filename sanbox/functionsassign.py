@@ -47,7 +47,7 @@ while number<=10:
         print(word)
         word = word[2:]
 
-greet_name = ["joy", "arit", "agnes"]:
-    for names in name
-    print("Hi (greet_name)")
+def greet_names = ["joy", "arit", "agnes"]:
+    for names in names
+    print (f"Hi{greet_names}")
 

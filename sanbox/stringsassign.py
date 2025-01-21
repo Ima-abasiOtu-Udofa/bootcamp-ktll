@@ -16,14 +16,14 @@ plant = 'ashwagandha' # letter n
 """
 Create 3 variables of different strings and find
 the length of each of the strings, then find
-the letter at the 1st, 3rd, and 9th index.
+the letter at the 1st, 3rd, and 9th index
 """
 
 
 """
 Create 3 variables of different strings and find
 the length of each of the strings, then find
-the letter at the 1st, 3rd, and 9th index.
+the letter at the 1st, 3rd, and 9th index
 """
 #solutions
 #assignment 1
