@@ -14,6 +14,31 @@ print (num)
 and prints a number while the number is less than the number passed
 as the variable. print "Done", once the while loop is complete."""
 
-def num = 89
-while num < 89:
-    print(num)
+
+
+for i in range(14):
+    for j in range(14):
+        print(f"{(i+j)*2:4}", end = " ")
+    print()
+
+num = 0
+string = ("evangeline")
+while num < len(string):
+    char = string[num]
+
+    # Check if the character is a vowel
+    if char.lower() in 'aeiou':
+        # Print the vowel in capital letters
+        print(char.upper())
+    else:
+        # Print the non-vowel character as is
+        print(char)
+    
+    # Increment the num variable
+    num += 1
+
+word = "elephant"
+for letter in word:
+    if letter is "aeiou"
+    print(word.upper())
+    else print (word)
